@@ -1,3 +1,5 @@
+![Game By Stefan Lacio](banner.png)
+
 # Path of Criminals
 
 An open-world sandbox prototype for Android focused on driving, AI testing, and LAN multiplayer.
