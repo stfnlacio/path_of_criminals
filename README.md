@@ -5,8 +5,12 @@
 An open-world sandbox prototype for Android focused on driving, AI testing, and LAN multiplayer.
 
 ## About
-Path of Criminals is a tech demo built to test core gameplay systems before full production.  
+<img src="icon.png" alt="Path of Criminals Icon" width="512" height="512" align="left" style="margin-right: 20px;">
+
+Path of Criminals is a tech demo built to test core gameplay systems before full production. 
 This build is for testing and feedback only. Expect bugs, missing features, and changing mechanics.
+
+<br clear="left">
 
 ## Download
 Get the latest build from the [Releases](../../releases) page.  
