@@ -19,8 +19,8 @@ Get the latest build from the [Releases](../../releases) page.
 - Local LAN multiplayer prototype
 
 ## Screenshots
-<!-- Add images here after uploading them to the repo or release -->
-<!-- Example: ![Gameplay](image-link-here) -->
+
+![Gameplay](screenshot1.png)
 
 ## Reporting Issues
 Found a bug or have feedback?  
