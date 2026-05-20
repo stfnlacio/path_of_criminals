@@ -27,6 +27,7 @@ Get the latest build from the [Releases](../../releases) page.
 ## Screenshots
 
 ![Gameplay](Screenshot_1.png)
+![Gameplay](Screenshot_2.png)
 
 ## Reporting Issues
 Found a bug or have feedback?  
